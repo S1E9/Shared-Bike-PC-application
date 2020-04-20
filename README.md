@@ -40,3 +40,8 @@ Enter bike’s id, the station this bike will end up with. Then this bike is vir
 There is a clear button and by just gently clicking it, you got a fabulous chart to illustrate all the bike’s information in a very intuitive way. It will show during a defined time period, how many bikes are reported as broken. The chart will be saved in your local drive and to will be put into the same folder where this program locates in.
 
 *need to apply the QT component and qt2py within the pycharm to run and edit the code*
+
+![Logical Graph](https://github.com/S1E9/Shared-Bike-PC-application/edit/master/Images/Logical%20Graph.png)
+
+
+![Main Interface](https://github.com/S1E9/Shared-Bike-PC-application/edit/master/Images/main%20UI.png)
